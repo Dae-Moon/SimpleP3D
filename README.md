@@ -17,6 +17,7 @@ A Simple pseudo 3D game with using raycasting algorithm.
 ## Dependencies
 * [GLFW](https://github.com/glfw/glfw)
 * [GLEW](https://github.com/nigels-com/glew), in particular [CMake porting](https://github.com/Perlmint/glew-cmake)
+* [glText](https://github.com/vallentin/glText)
 
 ## Usage
 
