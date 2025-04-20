@@ -24,7 +24,7 @@ A Simple pseudo 3D game with using raycasting algorithm.
 ### Windows
 
 You can use some IDEs that support CMake, like [Visual studio](https://visualstudio.microsoft.com)  
-Or you can (you need some kind of compiler on windows)
+Or you can (you need download cmake and some kind of compiler on windows)
 ```PowerShell
 git clone https://github.com/Dae-Moon/SimpleP3D.git
 cd SimpleP3D
